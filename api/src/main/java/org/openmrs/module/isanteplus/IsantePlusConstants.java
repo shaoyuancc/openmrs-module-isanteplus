@@ -46,9 +46,11 @@ public class IsantePlusConstants {
 
 	public static final String HaitiCore_ECID_UUID = "f54ed6b9-f5b9-4fd5-a588-8f7561a78401";
 
-	public static final String HaitiCore_BIOMETRIC_UUID = "e26ca279-8f57-44a5-9ed8-8cc16e90e559";
-
-	public static final String HaitiCore_BIOMETRIC_NATIONAL_UUID = "5a597bcc-26ad-11e8-b467-0ed5f89f718b";
+	// CCSY EDITED
+//
+//	public static final String HaitiCore_BIOMETRIC_UUID = "e26ca279-8f57-44a5-9ed8-8cc16e90e559";
+//
+//	public static final String HaitiCore_BIOMETRIC_NATIONAL_UUID = "5a597bcc-26ad-11e8-b467-0ed5f89f718b";
 
 	public static final String PATIENT_IDENTIFIER_TYPE_UUID_ISANTEPLUS_ID = "05a29f94-c0ed-11e2-94be-8c13b969e334"; //Note, this is the same as the OpenMRS ID identifier type because we rename it in the module activator
 
